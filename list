@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-country="IL" tvg-url="" group-title="Kids",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="|IL| 1. ISRAEL",KNESSET
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" tvg-country="IL" tvg-url="" group-title="News",Channel 2 News
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+
+#EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",Keshet 12 HD
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="12" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",Keshet 12 SD
+https://keshethlslive-i.akamaihd.net/hls/live/512035/CH2LIVE_LOW/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-country="IL" tvg-url="" group-title="Music",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8?b=200-2500&
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/wWtTnn6/20.png" group-title="|IL| 1. ISRAEL",CH 20
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-country="IL" tvg-url="" group-title="Religious",Hidabroot
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" tvg-country="IL" tvg-url="" group-title="",Kabbalah for the People (Israel)
+https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" tvg-country="IL" tvg-url="" group-title="",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" seekable="true" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" tvg-country="IL" tvg-url="" group-title="",Kan 11 (might be better)
+https://www.dailymotion.com/embed/video/x7wjmog
+
+#EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" tvg-country="IL" tvg-url="" group-title="General",Makan 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת SD
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_1.m3u8
+
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" seekable="true" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="" group-title="General",Reshet 13 רשת HD
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+
+#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" tvg-country="IL" tvg-url="" group-title="Sport",Sport אתר ספורט 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://www.ynet.co.il/images/ynet_defualt.png" tvg-country="IL" tvg-url="" group-title="",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9
+https://channel9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 backup
+https://channel9b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://mizbala.com/_uploads/images/2012/01/hapachHagadol.jpg" tvg-country="IL" tvg-url="" group-title="",האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
