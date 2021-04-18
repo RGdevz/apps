@@ -53,9 +53,6 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
 
-#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" tvg-country="IL" tvg-url="" group-title="Sport",Sport אתר ספורט 5
-https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://www.ynet.co.il/images/ynet_defualt.png" tvg-country="IL" tvg-url="" group-title="",Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 
