@@ -67,3 +67,6 @@ https://channel9b
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",IPTV Sport 5
+http://iptvmercury.club:8080/*I-45*#19813#
