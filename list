@@ -76,4 +76,6 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport
 https://144
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",IPTV sport
+http://new-pro.tv:1935/*V-79*#66214#
 
