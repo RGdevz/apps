@@ -65,15 +65,19 @@ https://channel9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 backup
 https://channel9b
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.alllies.org/wp-content/uploads/2012/01/hapach_Hagadol.jpg" tvg-country="IL" tvg-url="" group-title="",האח הגדול
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport
+
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport
 https://144
 
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",IPTV Sport 
+http://iptvmercury.club:8080/*I-45*#19813#
 
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Sport 
+http://185.97.150.19:8082/2116
