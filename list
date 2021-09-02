@@ -73,10 +73,19 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
 
-#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport 5
 https://144
 
-#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",IPTV Sport 
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",IPTV Sport 5
 http://iptvmercury.club:8080/*I-45*#41502#
+
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport 2
+https://141
+
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport 3
+https://142
+
+#IPTVEXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.sportireland.ie/sites/default/files/styles/ultra_widescreen_television/public/2020-06/ball.jpg" tvg-country="IL" tvg-url="" group-title="",Source2 sport 4
+https://143
 
 
