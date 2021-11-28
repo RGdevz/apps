@@ -26,8 +26,11 @@ https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/master.m3u8?b=200-2500&
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8?b=200-2500&
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/wWtTnn6/20.png" group-title="|IL| 1. ISRAEL",CH 20
+#EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14
 https://dvr.ch20-cdnwiz.com/hls/live_480/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.now14.co.il/wp-content/themes/14-child/assets/logo14/Desktop_Logo1.png" group-title="|IL| 1. ISRAEL",CH 14 HD
+https://splittv.ch20-cdnwiz.com/hls/live.m3u8
 
 
 #EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-country="IL" tvg-url="" group-title="Religious",Hidabroot
