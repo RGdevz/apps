@@ -48,8 +48,6 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 https://raw.githubusercontent.com/RGdevz/apps/main/kan.js#script
 
 
-#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" seekable="true" tvg-language="Hebrew" tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" tvg-country="IL" tvg-url="" group-title="",Kan 11 (might be better)
-https://www.dailymotion.com/embed/video/x7wjmog
 
 #EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" tvg-country="IL" tvg-url="" group-title="General",Makan 33 מכאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
